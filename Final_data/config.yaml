@@ -1,0 +1,39 @@
+path: C:\Users\chris\Documents\350_CV_Project\Final_data
+train: C:\Users\chris\Documents\350_CV_Project\Final_data\images\train
+test: C:\Users\chris\Documents\350_CV_Project\Final_data\images\test
+val: C:\Users\chris\Documents\350_CV_Project\Final_data\images\val
+
+# Classes
+nc: 28
+
+# Class names
+# replace all class names with your own classes' names
+names:
+  0: Bottle
+  1: Carton
+  2: Bottle cap
+  3: Can
+  4: Pop tab
+  5: Cup
+  6: Plastic bag & wrapper
+  7: Styrofoam piece
+  8: Other plastic
+  9: Plastic container
+  10: Paper
+  11: Cigarette
+  12: Lid
+  13: Straw
+  14: Paper bag
+  15: Broken glass
+  16: Plastic utensils
+  17: Glass jar
+  18: Food waste
+  19: Squeezable tube
+  20: Shoe
+  21: Aluminium foil
+  22: Unlabeled litter
+  23: Blister pack
+  24: Battery
+  25: Rope & strings
+  26: Scrap metal
+  27: Plastic gloves
